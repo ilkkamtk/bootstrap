@@ -10,7 +10,7 @@
 3. Make copies of front.html so that you have total of three html documents: front.html, gallery.html and about.html
 4. Use Bootstrap to make the pages look like this:
 
-index.html
+front.html
     ![Index screenshot](https://raw.githubusercontent.com/ilkkamtk/mpjkk/master/Week1/images/index.png)
 ___
 
